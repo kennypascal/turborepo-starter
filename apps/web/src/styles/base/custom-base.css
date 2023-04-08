@@ -1,0 +1,10 @@
+@layer base {
+    html,
+    body {
+        @apply tw-bg-kpcom-1 tw-bg-gradient-to-r tw-from-kpcom-1 tw-to-kpcom-6;
+    }
+
+    body {
+        @apply tw-text-white;
+    }
+}
